@@ -1,0 +1,32 @@
+
+body {
+	background-color: #008080;
+}
+
+.sila {
+
+	width: 500px;
+	background-color: #000;
+}
+
+.sila-div {
+
+}
+
+.sila-h1 {
+	background-color: #000;
+} 
+
+.sila-sila {
+	width: 700px;
+	margin-left: 10px ;
+	background-color: #808080;
+}
+
+h1 {
+	color: yellow;
+}
+
+P {
+	color: yellow;
+}
